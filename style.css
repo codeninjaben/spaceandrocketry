@@ -33,12 +33,14 @@ h1 {
   color: white;
 }
 
-ol {
+ol li {
    color: white;
+   font-family: 'Sansita Swashed', cursive;
 }
 
-ol {
+ol li {
    font-size: 24px
+   font-family: 'Sansita Swashed', cursive;
 }
 
 ul {
@@ -52,6 +54,7 @@ ul {
 li {
    color: white;
 }
+
 
      .section {
   position: relative;
@@ -77,7 +80,7 @@ li {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: auto;
 }
 
 .color-overlay {
